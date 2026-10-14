@@ -1,0 +1,1066 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fed-calendar//Federal Reserve meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FOMC blackout periods
+X-WR-CALDESC:FOMC communications blackout periods\, calculated from the mee
+ ting schedule using the Fed's published rule. Updated daily.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2021-jan@fed-calendar.github.io
+DTSTART;VALUE=DATE:20210116
+DTEND;VALUE=DATE:20210129
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the January 26–27\, 2021 mee
+ ting. Begins 12:00 a.m. ET Saturday\, January 16 and ends 11:59 p.m. ET Th
+ ursday\, January 28. Committee participants and staff generally don't spea
+ k publicly about monetary policy during this period.\n\nCalculated from th
+ e Fed's rule (second Saturday before the meeting through the day after). C
+ heck the official calendar for exceptions: https://www.federalreserve.gov/
+ monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.
+ federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.
+ pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2021-mar@fed-calendar.github.io
+DTSTART;VALUE=DATE:20210306
+DTEND;VALUE=DATE:20210319
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the March 16–17\, 2021 meeti
+ ng. Begins 12:00 a.m. ET Saturday\, March 6 and ends 11:59 p.m. ET Thursda
+ y\, March 18. Committee participants and staff generally don't speak publi
+ cly about monetary policy during this period.\n\nCalculated from the Fed's
+  rule (second Saturday before the meeting through the day after). Check th
+ e official calendar for exceptions: https://www.federalreserve.gov/monetar
+ ypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federal
+ reserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2021-apr@fed-calendar.github.io
+DTSTART;VALUE=DATE:20210417
+DTEND;VALUE=DATE:20210430
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the April 27–28\, 2021 meeti
+ ng. Begins 12:00 a.m. ET Saturday\, April 17 and ends 11:59 p.m. ET Thursd
+ ay\, April 29. Committee participants and staff generally don't speak publ
+ icly about monetary policy during this period.\n\nCalculated from the Fed'
+ s rule (second Saturday before the meeting through the day after). Check t
+ he official calendar for exceptions: https://www.federalreserve.gov/moneta
+ rypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federa
+ lreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2021-jun@fed-calendar.github.io
+DTSTART;VALUE=DATE:20210605
+DTEND;VALUE=DATE:20210618
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the June 15–16\, 2021 meetin
+ g. Begins 12:00 a.m. ET Saturday\, June 5 and ends 11:59 p.m. ET Thursday\
+ , June 17. Committee participants and staff generally don't speak publicly
+  about monetary policy during this period.\n\nCalculated from the Fed's ru
+ le (second Saturday before the meeting through the day after). Check the o
+ fficial calendar for exceptions: https://www.federalreserve.gov/monetarypo
+ licy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federalres
+ erve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2021-jul@fed-calendar.github.io
+DTSTART;VALUE=DATE:20210717
+DTEND;VALUE=DATE:20210730
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the July 27–28\, 2021 meetin
+ g. Begins 12:00 a.m. ET Saturday\, July 17 and ends 11:59 p.m. ET Thursday
+ \, July 29. Committee participants and staff generally don't speak publicl
+ y about monetary policy during this period.\n\nCalculated from the Fed's r
+ ule (second Saturday before the meeting through the day after). Check the 
+ official calendar for exceptions: https://www.federalreserve.gov/monetaryp
+ olicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federalre
+ serve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2021-sep@fed-calendar.github.io
+DTSTART;VALUE=DATE:20210911
+DTEND;VALUE=DATE:20210924
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the September 21–22\, 2021 m
+ eeting. Begins 12:00 a.m. ET Saturday\, September 11 and ends 11:59 p.m. E
+ T Thursday\, September 23. Committee participants and staff generally don'
+ t speak publicly about monetary policy during this period.\n\nCalculated f
+ rom the Fed's rule (second Saturday before the meeting through the day aft
+ er). Check the official calendar for exceptions: https://www.federalreserv
+ e.gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https:
+ //www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationPartici
+ pants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2021-nov@fed-calendar.github.io
+DTSTART;VALUE=DATE:20211023
+DTEND;VALUE=DATE:20211105
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the November 2–3\, 2021 meet
+ ing. Begins 12:00 a.m. ET Saturday\, October 23 and ends 11:59 p.m. ET Thu
+ rsday\, November 4. Committee participants and staff generally don't speak
+  publicly about monetary policy during this period.\n\nCalculated from the
+  Fed's rule (second Saturday before the meeting through the day after). Ch
+ eck the official calendar for exceptions: https://www.federalreserve.gov/m
+ onetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.f
+ ederalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.p
+ df
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2021-dec@fed-calendar.github.io
+DTSTART;VALUE=DATE:20211204
+DTEND;VALUE=DATE:20211217
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the December 14–15\, 2021 me
+ eting. Begins 12:00 a.m. ET Saturday\, December 4 and ends 11:59 p.m. ET T
+ hursday\, December 16. Committee participants and staff generally don't sp
+ eak publicly about monetary policy during this period.\n\nCalculated from 
+ the Fed's rule (second Saturday before the meeting through the day after).
+  Check the official calendar for exceptions: https://www.federalreserve.go
+ v/monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://ww
+ w.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipant
+ s.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2022-jan@fed-calendar.github.io
+DTSTART;VALUE=DATE:20220115
+DTEND;VALUE=DATE:20220128
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the January 25–26\, 2022 mee
+ ting. Begins 12:00 a.m. ET Saturday\, January 15 and ends 11:59 p.m. ET Th
+ ursday\, January 27. Committee participants and staff generally don't spea
+ k publicly about monetary policy during this period.\n\nCalculated from th
+ e Fed's rule (second Saturday before the meeting through the day after). C
+ heck the official calendar for exceptions: https://www.federalreserve.gov/
+ monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.
+ federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.
+ pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2022-mar@fed-calendar.github.io
+DTSTART;VALUE=DATE:20220305
+DTEND;VALUE=DATE:20220318
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the March 15–16\, 2022 meeti
+ ng. Begins 12:00 a.m. ET Saturday\, March 5 and ends 11:59 p.m. ET Thursda
+ y\, March 17. Committee participants and staff generally don't speak publi
+ cly about monetary policy during this period.\n\nCalculated from the Fed's
+  rule (second Saturday before the meeting through the day after). Check th
+ e official calendar for exceptions: https://www.federalreserve.gov/monetar
+ ypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federal
+ reserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2022-may@fed-calendar.github.io
+DTSTART;VALUE=DATE:20220423
+DTEND;VALUE=DATE:20220506
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the May 3–4\, 2022 meeting. 
+ Begins 12:00 a.m. ET Saturday\, April 23 and ends 11:59 p.m. ET Thursday\,
+  May 5. Committee participants and staff generally don't speak publicly ab
+ out monetary policy during this period.\n\nCalculated from the Fed's rule 
+ (second Saturday before the meeting through the day after). Check the offi
+ cial calendar for exceptions: https://www.federalreserve.gov/monetarypolic
+ y/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federalreserv
+ e.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2022-jun@fed-calendar.github.io
+DTSTART;VALUE=DATE:20220604
+DTEND;VALUE=DATE:20220617
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the June 14–15\, 2022 meetin
+ g. Begins 12:00 a.m. ET Saturday\, June 4 and ends 11:59 p.m. ET Thursday\
+ , June 16. Committee participants and staff generally don't speak publicly
+  about monetary policy during this period.\n\nCalculated from the Fed's ru
+ le (second Saturday before the meeting through the day after). Check the o
+ fficial calendar for exceptions: https://www.federalreserve.gov/monetarypo
+ licy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federalres
+ erve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2022-jul@fed-calendar.github.io
+DTSTART;VALUE=DATE:20220716
+DTEND;VALUE=DATE:20220729
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the July 26–27\, 2022 meetin
+ g. Begins 12:00 a.m. ET Saturday\, July 16 and ends 11:59 p.m. ET Thursday
+ \, July 28. Committee participants and staff generally don't speak publicl
+ y about monetary policy during this period.\n\nCalculated from the Fed's r
+ ule (second Saturday before the meeting through the day after). Check the 
+ official calendar for exceptions: https://www.federalreserve.gov/monetaryp
+ olicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federalre
+ serve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2022-sep@fed-calendar.github.io
+DTSTART;VALUE=DATE:20220910
+DTEND;VALUE=DATE:20220923
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the September 20–21\, 2022 m
+ eeting. Begins 12:00 a.m. ET Saturday\, September 10 and ends 11:59 p.m. E
+ T Thursday\, September 22. Committee participants and staff generally don'
+ t speak publicly about monetary policy during this period.\n\nCalculated f
+ rom the Fed's rule (second Saturday before the meeting through the day aft
+ er). Check the official calendar for exceptions: https://www.federalreserv
+ e.gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https:
+ //www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationPartici
+ pants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2022-nov@fed-calendar.github.io
+DTSTART;VALUE=DATE:20221022
+DTEND;VALUE=DATE:20221104
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the November 1–2\, 2022 meet
+ ing. Begins 12:00 a.m. ET Saturday\, October 22 and ends 11:59 p.m. ET Thu
+ rsday\, November 3. Committee participants and staff generally don't speak
+  publicly about monetary policy during this period.\n\nCalculated from the
+  Fed's rule (second Saturday before the meeting through the day after). Ch
+ eck the official calendar for exceptions: https://www.federalreserve.gov/m
+ onetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.f
+ ederalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.p
+ df
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2022-dec@fed-calendar.github.io
+DTSTART;VALUE=DATE:20221203
+DTEND;VALUE=DATE:20221216
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the December 13–14\, 2022 me
+ eting. Begins 12:00 a.m. ET Saturday\, December 3 and ends 11:59 p.m. ET T
+ hursday\, December 15. Committee participants and staff generally don't sp
+ eak publicly about monetary policy during this period.\n\nCalculated from 
+ the Fed's rule (second Saturday before the meeting through the day after).
+  Check the official calendar for exceptions: https://www.federalreserve.go
+ v/monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://ww
+ w.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipant
+ s.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2023-jan@fed-calendar.github.io
+DTSTART;VALUE=DATE:20230121
+DTEND;VALUE=DATE:20230203
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the January 31 – February 1\
+ , 2023 meeting. Begins 12:00 a.m. ET Saturday\, January 21 and ends 11:59 
+ p.m. ET Thursday\, February 2. Committee participants and staff generally 
+ don't speak publicly about monetary policy during this period.\n\nCalculat
+ ed from the Fed's rule (second Saturday before the meeting through the day
+  after). Check the official calendar for exceptions: https://www.federalre
+ serve.gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: ht
+ tps://www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationPar
+ ticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2023-mar@fed-calendar.github.io
+DTSTART;VALUE=DATE:20230311
+DTEND;VALUE=DATE:20230324
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the March 21–22\, 2023 meeti
+ ng. Begins 12:00 a.m. ET Saturday\, March 11 and ends 11:59 p.m. ET Thursd
+ ay\, March 23. Committee participants and staff generally don't speak publ
+ icly about monetary policy during this period.\n\nCalculated from the Fed'
+ s rule (second Saturday before the meeting through the day after). Check t
+ he official calendar for exceptions: https://www.federalreserve.gov/moneta
+ rypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federa
+ lreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2023-may@fed-calendar.github.io
+DTSTART;VALUE=DATE:20230422
+DTEND;VALUE=DATE:20230505
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the May 2–3\, 2023 meeting. 
+ Begins 12:00 a.m. ET Saturday\, April 22 and ends 11:59 p.m. ET Thursday\,
+  May 4. Committee participants and staff generally don't speak publicly ab
+ out monetary policy during this period.\n\nCalculated from the Fed's rule 
+ (second Saturday before the meeting through the day after). Check the offi
+ cial calendar for exceptions: https://www.federalreserve.gov/monetarypolic
+ y/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federalreserv
+ e.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2023-jun@fed-calendar.github.io
+DTSTART;VALUE=DATE:20230603
+DTEND;VALUE=DATE:20230616
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the June 13–14\, 2023 meetin
+ g. Begins 12:00 a.m. ET Saturday\, June 3 and ends 11:59 p.m. ET Thursday\
+ , June 15. Committee participants and staff generally don't speak publicly
+  about monetary policy during this period.\n\nCalculated from the Fed's ru
+ le (second Saturday before the meeting through the day after). Check the o
+ fficial calendar for exceptions: https://www.federalreserve.gov/monetarypo
+ licy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federalres
+ erve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2023-jul@fed-calendar.github.io
+DTSTART;VALUE=DATE:20230715
+DTEND;VALUE=DATE:20230728
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the July 25–26\, 2023 meetin
+ g. Begins 12:00 a.m. ET Saturday\, July 15 and ends 11:59 p.m. ET Thursday
+ \, July 27. Committee participants and staff generally don't speak publicl
+ y about monetary policy during this period.\n\nCalculated from the Fed's r
+ ule (second Saturday before the meeting through the day after). Check the 
+ official calendar for exceptions: https://www.federalreserve.gov/monetaryp
+ olicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federalre
+ serve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2023-sep@fed-calendar.github.io
+DTSTART;VALUE=DATE:20230909
+DTEND;VALUE=DATE:20230922
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the September 19–20\, 2023 m
+ eeting. Begins 12:00 a.m. ET Saturday\, September 9 and ends 11:59 p.m. ET
+  Thursday\, September 21. Committee participants and staff generally don't
+  speak publicly about monetary policy during this period.\n\nCalculated fr
+ om the Fed's rule (second Saturday before the meeting through the day afte
+ r). Check the official calendar for exceptions: https://www.federalreserve
+ .gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https:/
+ /www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticip
+ ants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2023-oct@fed-calendar.github.io
+DTSTART;VALUE=DATE:20231021
+DTEND;VALUE=DATE:20231103
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the October 31 – November 1\
+ , 2023 meeting. Begins 12:00 a.m. ET Saturday\, October 21 and ends 11:59 
+ p.m. ET Thursday\, November 2. Committee participants and staff generally 
+ don't speak publicly about monetary policy during this period.\n\nCalculat
+ ed from the Fed's rule (second Saturday before the meeting through the day
+  after). Check the official calendar for exceptions: https://www.federalre
+ serve.gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: ht
+ tps://www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationPar
+ ticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2023-dec@fed-calendar.github.io
+DTSTART;VALUE=DATE:20231202
+DTEND;VALUE=DATE:20231215
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the December 12–13\, 2023 me
+ eting. Begins 12:00 a.m. ET Saturday\, December 2 and ends 11:59 p.m. ET T
+ hursday\, December 14. Committee participants and staff generally don't sp
+ eak publicly about monetary policy during this period.\n\nCalculated from 
+ the Fed's rule (second Saturday before the meeting through the day after).
+  Check the official calendar for exceptions: https://www.federalreserve.go
+ v/monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://ww
+ w.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipant
+ s.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2024-jan@fed-calendar.github.io
+DTSTART;VALUE=DATE:20240120
+DTEND;VALUE=DATE:20240202
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the January 30–31\, 2024 mee
+ ting. Begins 12:00 a.m. ET Saturday\, January 20 and ends 11:59 p.m. ET Th
+ ursday\, February 1. Committee participants and staff generally don't spea
+ k publicly about monetary policy during this period.\n\nCalculated from th
+ e Fed's rule (second Saturday before the meeting through the day after). C
+ heck the official calendar for exceptions: https://www.federalreserve.gov/
+ monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.
+ federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.
+ pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2024-mar@fed-calendar.github.io
+DTSTART;VALUE=DATE:20240309
+DTEND;VALUE=DATE:20240322
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the March 19–20\, 2024 meeti
+ ng. Begins 12:00 a.m. ET Saturday\, March 9 and ends 11:59 p.m. ET Thursda
+ y\, March 21. Committee participants and staff generally don't speak publi
+ cly about monetary policy during this period.\n\nCalculated from the Fed's
+  rule (second Saturday before the meeting through the day after). Check th
+ e official calendar for exceptions: https://www.federalreserve.gov/monetar
+ ypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federal
+ reserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2024-apr@fed-calendar.github.io
+DTSTART;VALUE=DATE:20240420
+DTEND;VALUE=DATE:20240503
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the April 30 – May 1\, 2024 
+ meeting. Begins 12:00 a.m. ET Saturday\, April 20 and ends 11:59 p.m. ET T
+ hursday\, May 2. Committee participants and staff generally don't speak pu
+ blicly about monetary policy during this period.\n\nCalculated from the Fe
+ d's rule (second Saturday before the meeting through the day after). Check
+  the official calendar for exceptions: https://www.federalreserve.gov/mone
+ tarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.fede
+ ralreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2024-jun@fed-calendar.github.io
+DTSTART;VALUE=DATE:20240601
+DTEND;VALUE=DATE:20240614
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the June 11–12\, 2024 meetin
+ g. Begins 12:00 a.m. ET Saturday\, June 1 and ends 11:59 p.m. ET Thursday\
+ , June 13. Committee participants and staff generally don't speak publicly
+  about monetary policy during this period.\n\nCalculated from the Fed's ru
+ le (second Saturday before the meeting through the day after). Check the o
+ fficial calendar for exceptions: https://www.federalreserve.gov/monetarypo
+ licy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federalres
+ erve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2024-jul@fed-calendar.github.io
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240802
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the July 30–31\, 2024 meetin
+ g. Begins 12:00 a.m. ET Saturday\, July 20 and ends 11:59 p.m. ET Thursday
+ \, August 1. Committee participants and staff generally don't speak public
+ ly about monetary policy during this period.\n\nCalculated from the Fed's 
+ rule (second Saturday before the meeting through the day after). Check the
+  official calendar for exceptions: https://www.federalreserve.gov/monetary
+ policy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federalr
+ eserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2024-sep@fed-calendar.github.io
+DTSTART;VALUE=DATE:20240907
+DTEND;VALUE=DATE:20240920
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the September 17–18\, 2024 m
+ eeting. Begins 12:00 a.m. ET Saturday\, September 7 and ends 11:59 p.m. ET
+  Thursday\, September 19. Committee participants and staff generally don't
+  speak publicly about monetary policy during this period.\n\nCalculated fr
+ om the Fed's rule (second Saturday before the meeting through the day afte
+ r). Check the official calendar for exceptions: https://www.federalreserve
+ .gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https:/
+ /www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticip
+ ants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2024-nov@fed-calendar.github.io
+DTSTART;VALUE=DATE:20241026
+DTEND;VALUE=DATE:20241109
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the November 6–7\, 2024 meet
+ ing. Begins 12:00 a.m. ET Saturday\, October 26 and ends 11:59 p.m. ET Fri
+ day\, November 8. Committee participants and staff generally don't speak p
+ ublicly about monetary policy during this period.\n\nCalculated from the F
+ ed's rule (second Saturday before the meeting through the day after). Chec
+ k the official calendar for exceptions: https://www.federalreserve.gov/mon
+ etarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.fed
+ eralreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2024-dec@fed-calendar.github.io
+DTSTART;VALUE=DATE:20241207
+DTEND;VALUE=DATE:20241220
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the December 17–18\, 2024 me
+ eting. Begins 12:00 a.m. ET Saturday\, December 7 and ends 11:59 p.m. ET T
+ hursday\, December 19. Committee participants and staff generally don't sp
+ eak publicly about monetary policy during this period.\n\nCalculated from 
+ the Fed's rule (second Saturday before the meeting through the day after).
+  Check the official calendar for exceptions: https://www.federalreserve.go
+ v/monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://ww
+ w.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipant
+ s.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2025-jan@fed-calendar.github.io
+DTSTART;VALUE=DATE:20250118
+DTEND;VALUE=DATE:20250131
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the January 28–29\, 2025 mee
+ ting. Begins 12:00 a.m. ET Saturday\, January 18 and ends 11:59 p.m. ET Th
+ ursday\, January 30. Committee participants and staff generally don't spea
+ k publicly about monetary policy during this period.\n\nCalculated from th
+ e Fed's rule (second Saturday before the meeting through the day after). C
+ heck the official calendar for exceptions: https://www.federalreserve.gov/
+ monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.
+ federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.
+ pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2025-mar@fed-calendar.github.io
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250321
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the March 18–19\, 2025 meeti
+ ng. Begins 12:00 a.m. ET Saturday\, March 8 and ends 11:59 p.m. ET Thursda
+ y\, March 20. Committee participants and staff generally don't speak publi
+ cly about monetary policy during this period.\n\nCalculated from the Fed's
+  rule (second Saturday before the meeting through the day after). Check th
+ e official calendar for exceptions: https://www.federalreserve.gov/monetar
+ ypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federal
+ reserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2025-may@fed-calendar.github.io
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250509
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the May 6–7\, 2025 meeting. 
+ Begins 12:00 a.m. ET Saturday\, April 26 and ends 11:59 p.m. ET Thursday\,
+  May 8. Committee participants and staff generally don't speak publicly ab
+ out monetary policy during this period.\n\nCalculated from the Fed's rule 
+ (second Saturday before the meeting through the day after). Check the offi
+ cial calendar for exceptions: https://www.federalreserve.gov/monetarypolic
+ y/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federalreserv
+ e.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2025-jun@fed-calendar.github.io
+DTSTART;VALUE=DATE:20250607
+DTEND;VALUE=DATE:20250620
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the June 17–18\, 2025 meetin
+ g. Begins 12:00 a.m. ET Saturday\, June 7 and ends 11:59 p.m. ET Thursday\
+ , June 19. Committee participants and staff generally don't speak publicly
+  about monetary policy during this period.\n\nCalculated from the Fed's ru
+ le (second Saturday before the meeting through the day after). Check the o
+ fficial calendar for exceptions: https://www.federalreserve.gov/monetarypo
+ licy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federalres
+ erve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2025-jul@fed-calendar.github.io
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250801
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the July 29–30\, 2025 meetin
+ g. Begins 12:00 a.m. ET Saturday\, July 19 and ends 11:59 p.m. ET Thursday
+ \, July 31. Committee participants and staff generally don't speak publicl
+ y about monetary policy during this period.\n\nCalculated from the Fed's r
+ ule (second Saturday before the meeting through the day after). Check the 
+ official calendar for exceptions: https://www.federalreserve.gov/monetaryp
+ olicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federalre
+ serve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2025-sep@fed-calendar.github.io
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250919
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the September 16–17\, 2025 m
+ eeting. Begins 12:00 a.m. ET Saturday\, September 6 and ends 11:59 p.m. ET
+  Thursday\, September 18. Committee participants and staff generally don't
+  speak publicly about monetary policy during this period.\n\nCalculated fr
+ om the Fed's rule (second Saturday before the meeting through the day afte
+ r). Check the official calendar for exceptions: https://www.federalreserve
+ .gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https:/
+ /www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticip
+ ants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2025-oct@fed-calendar.github.io
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251031
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the October 28–29\, 2025 mee
+ ting. Begins 12:00 a.m. ET Saturday\, October 18 and ends 11:59 p.m. ET Th
+ ursday\, October 30. Committee participants and staff generally don't spea
+ k publicly about monetary policy during this period.\n\nCalculated from th
+ e Fed's rule (second Saturday before the meeting through the day after). C
+ heck the official calendar for exceptions: https://www.federalreserve.gov/
+ monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.
+ federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.
+ pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2025-dec@fed-calendar.github.io
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251212
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the December 9–10\, 2025 mee
+ ting. Begins 12:00 a.m. ET Saturday\, November 29 and ends 11:59 p.m. ET T
+ hursday\, December 11. Committee participants and staff generally don't sp
+ eak publicly about monetary policy during this period.\n\nCalculated from 
+ the Fed's rule (second Saturday before the meeting through the day after).
+  Check the official calendar for exceptions: https://www.federalreserve.go
+ v/monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://ww
+ w.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipant
+ s.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2026-jan@fed-calendar.github.io
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260130
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the January 27–28\, 2026 mee
+ ting. Begins 12:00 a.m. ET Saturday\, January 17 and ends 11:59 p.m. ET Th
+ ursday\, January 29. Committee participants and staff generally don't spea
+ k publicly about monetary policy during this period.\n\nCalculated from th
+ e Fed's rule (second Saturday before the meeting through the day after). C
+ heck the official calendar for exceptions: https://www.federalreserve.gov/
+ monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.
+ federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.
+ pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2026-mar@fed-calendar.github.io
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260320
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the March 17–18\, 2026 meeti
+ ng. Begins 12:00 a.m. ET Saturday\, March 7 and ends 11:59 p.m. ET Thursda
+ y\, March 19. Committee participants and staff generally don't speak publi
+ cly about monetary policy during this period.\n\nCalculated from the Fed's
+  rule (second Saturday before the meeting through the day after). Check th
+ e official calendar for exceptions: https://www.federalreserve.gov/monetar
+ ypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federal
+ reserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2026-apr@fed-calendar.github.io
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260501
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the April 28–29\, 2026 meeti
+ ng. Begins 12:00 a.m. ET Saturday\, April 18 and ends 11:59 p.m. ET Thursd
+ ay\, April 30. Committee participants and staff generally don't speak publ
+ icly about monetary policy during this period.\n\nCalculated from the Fed'
+ s rule (second Saturday before the meeting through the day after). Check t
+ he official calendar for exceptions: https://www.federalreserve.gov/moneta
+ rypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federa
+ lreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2026-jun@fed-calendar.github.io
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260619
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the June 16–17\, 2026 meetin
+ g. Begins 12:00 a.m. ET Saturday\, June 6 and ends 11:59 p.m. ET Thursday\
+ , June 18. Committee participants and staff generally don't speak publicly
+  about monetary policy during this period.\n\nCalculated from the Fed's ru
+ le (second Saturday before the meeting through the day after). Check the o
+ fficial calendar for exceptions: https://www.federalreserve.gov/monetarypo
+ licy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federalres
+ erve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2026-jul@fed-calendar.github.io
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260731
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the July 28–29\, 2026 meetin
+ g. Begins 12:00 a.m. ET Saturday\, July 18 and ends 11:59 p.m. ET Thursday
+ \, July 30. Committee participants and staff generally don't speak publicl
+ y about monetary policy during this period.\n\nCalculated from the Fed's r
+ ule (second Saturday before the meeting through the day after). Check the 
+ official calendar for exceptions: https://www.federalreserve.gov/monetaryp
+ olicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federalre
+ serve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2026-sep@fed-calendar.github.io
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260918
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the September 15–16\, 2026 m
+ eeting. Begins 12:00 a.m. ET Saturday\, September 5 and ends 11:59 p.m. ET
+  Thursday\, September 17. Committee participants and staff generally don't
+  speak publicly about monetary policy during this period.\n\nCalculated fr
+ om the Fed's rule (second Saturday before the meeting through the day afte
+ r). Check the official calendar for exceptions: https://www.federalreserve
+ .gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https:/
+ /www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticip
+ ants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2026-oct@fed-calendar.github.io
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261030
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the October 27–28\, 2026 mee
+ ting. Begins 12:00 a.m. ET Saturday\, October 17 and ends 11:59 p.m. ET Th
+ ursday\, October 29. Committee participants and staff generally don't spea
+ k publicly about monetary policy during this period.\n\nCalculated from th
+ e Fed's rule (second Saturday before the meeting through the day after). C
+ heck the official calendar for exceptions: https://www.federalreserve.gov/
+ monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.
+ federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.
+ pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2026-dec@fed-calendar.github.io
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261211
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the December 8–9\, 2026 meet
+ ing. Begins 12:00 a.m. ET Saturday\, November 28 and ends 11:59 p.m. ET Th
+ ursday\, December 10. Committee participants and staff generally don't spe
+ ak publicly about monetary policy during this period.\n\nCalculated from t
+ he Fed's rule (second Saturday before the meeting through the day after). 
+ Check the official calendar for exceptions: https://www.federalreserve.gov
+ /monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www
+ .federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants
+ .pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2027-jan@fed-calendar.github.io
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270129
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the January 26–27\, 2027 mee
+ ting. Begins 12:00 a.m. ET Saturday\, January 16 and ends 11:59 p.m. ET Th
+ ursday\, January 28. Committee participants and staff generally don't spea
+ k publicly about monetary policy during this period.\n\nCalculated from th
+ e Fed's rule (second Saturday before the meeting through the day after). C
+ heck the official calendar for exceptions: https://www.federalreserve.gov/
+ monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.
+ federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.
+ pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2027-mar@fed-calendar.github.io
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270319
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the March 16–17\, 2027 meeti
+ ng. Begins 12:00 a.m. ET Saturday\, March 6 and ends 11:59 p.m. ET Thursda
+ y\, March 18. Committee participants and staff generally don't speak publi
+ cly about monetary policy during this period.\n\nCalculated from the Fed's
+  rule (second Saturday before the meeting through the day after). Check th
+ e official calendar for exceptions: https://www.federalreserve.gov/monetar
+ ypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federal
+ reserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2027-apr@fed-calendar.github.io
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270430
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the April 27–28\, 2027 meeti
+ ng. Begins 12:00 a.m. ET Saturday\, April 17 and ends 11:59 p.m. ET Thursd
+ ay\, April 29. Committee participants and staff generally don't speak publ
+ icly about monetary policy during this period.\n\nCalculated from the Fed'
+ s rule (second Saturday before the meeting through the day after). Check t
+ he official calendar for exceptions: https://www.federalreserve.gov/moneta
+ rypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federa
+ lreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2027-jun@fed-calendar.github.io
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270611
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the June 8–9\, 2027 meeting.
+  Begins 12:00 a.m. ET Saturday\, May 29 and ends 11:59 p.m. ET Thursday\, 
+ June 10. Committee participants and staff generally don't speak publicly a
+ bout monetary policy during this period.\n\nCalculated from the Fed's rule
+  (second Saturday before the meeting through the day after). Check the off
+ icial calendar for exceptions: https://www.federalreserve.gov/monetarypoli
+ cy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federalreser
+ ve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2027-jul@fed-calendar.github.io
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270730
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the July 27–28\, 2027 meetin
+ g. Begins 12:00 a.m. ET Saturday\, July 17 and ends 11:59 p.m. ET Thursday
+ \, July 29. Committee participants and staff generally don't speak publicl
+ y about monetary policy during this period.\n\nCalculated from the Fed's r
+ ule (second Saturday before the meeting through the day after). Check the 
+ official calendar for exceptions: https://www.federalreserve.gov/monetaryp
+ olicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.federalre
+ serve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2027-sep@fed-calendar.github.io
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270917
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the September 14–15\, 2027 m
+ eeting. Begins 12:00 a.m. ET Saturday\, September 4 and ends 11:59 p.m. ET
+  Thursday\, September 16. Committee participants and staff generally don't
+  speak publicly about monetary policy during this period.\n\nCalculated fr
+ om the Fed's rule (second Saturday before the meeting through the day afte
+ r). Check the official calendar for exceptions: https://www.federalreserve
+ .gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https:/
+ /www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticip
+ ants.pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2027-oct@fed-calendar.github.io
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271029
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the October 26–27\, 2027 mee
+ ting. Begins 12:00 a.m. ET Saturday\, October 16 and ends 11:59 p.m. ET Th
+ ursday\, October 28. Committee participants and staff generally don't spea
+ k publicly about monetary policy during this period.\n\nCalculated from th
+ e Fed's rule (second Saturday before the meeting through the day after). C
+ heck the official calendar for exceptions: https://www.federalreserve.gov/
+ monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.
+ federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.
+ pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2027-dec@fed-calendar.github.io
+DTSTART;VALUE=DATE:20271127
+DTEND;VALUE=DATE:20271210
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the December 7–8\, 2027 meet
+ ing. Begins 12:00 a.m. ET Saturday\, November 27 and ends 11:59 p.m. ET Th
+ ursday\, December 9. Committee participants and staff generally don't spea
+ k publicly about monetary policy during this period.\n\nCalculated from th
+ e Fed's rule (second Saturday before the meeting through the day after). C
+ heck the official calendar for exceptions: https://www.federalreserve.gov/
+ monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.
+ federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.
+ pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T170227Z
+UID:fomc-blackout-2028-jan@fed-calendar.github.io
+DTSTART;VALUE=DATE:20280115
+DTEND;VALUE=DATE:20280128
+SUMMARY:FOMC blackout
+DESCRIPTION:FOMC communications blackout for the January 25–26\, 2028 mee
+ ting. Begins 12:00 a.m. ET Saturday\, January 15 and ends 11:59 p.m. ET Th
+ ursday\, January 27. Committee participants and staff generally don't spea
+ k publicly about monetary policy during this period.\n\nCalculated from th
+ e Fed's rule (second Saturday before the meeting through the day after). C
+ heck the official calendar for exceptions: https://www.federalreserve.gov/
+ monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.
+ federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.
+ pdf
+URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
+ d-calendar.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
