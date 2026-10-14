@@ -1,1 +1,45 @@
+name: Update Fed calendars
 
+on:
+  schedule:
+    - cron: "17 11 * * *"   # daily at 11:17 UTC (7:17 a.m. ET in summer)
+  workflow_dispatch:         # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: update-calendar
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build calendars
+        run: python scripts/build_calendar.py
+
+      - name: Commit updated calendars
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs data
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "Update Fed calendars"
+            git push
+          fi
+
+      - name: Open an issue if the FOMC schedule changed
+        if: hashFiles('changes.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "FOMC schedule changed ($(date -u +%Y-%m-%d))" --body-file changes.md
