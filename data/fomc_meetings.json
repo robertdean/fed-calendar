@@ -1,0 +1,524 @@
+[
+  {
+    "year": 2021,
+    "label": "January",
+    "start": "2021-01-26",
+    "end": "2021-01-27",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2021-jan@fed-calendar.github.io"
+  },
+  {
+    "year": 2021,
+    "label": "March",
+    "start": "2021-03-16",
+    "end": "2021-03-17",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2021-mar@fed-calendar.github.io"
+  },
+  {
+    "year": 2021,
+    "label": "April",
+    "start": "2021-04-27",
+    "end": "2021-04-28",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2021-apr@fed-calendar.github.io"
+  },
+  {
+    "year": 2021,
+    "label": "June",
+    "start": "2021-06-15",
+    "end": "2021-06-16",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2021-jun@fed-calendar.github.io"
+  },
+  {
+    "year": 2021,
+    "label": "July",
+    "start": "2021-07-27",
+    "end": "2021-07-28",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2021-jul@fed-calendar.github.io"
+  },
+  {
+    "year": 2021,
+    "label": "September",
+    "start": "2021-09-21",
+    "end": "2021-09-22",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2021-sep@fed-calendar.github.io"
+  },
+  {
+    "year": 2021,
+    "label": "November",
+    "start": "2021-11-02",
+    "end": "2021-11-03",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2021-nov@fed-calendar.github.io"
+  },
+  {
+    "year": 2021,
+    "label": "December",
+    "start": "2021-12-14",
+    "end": "2021-12-15",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2021-dec@fed-calendar.github.io"
+  },
+  {
+    "year": 2022,
+    "label": "January",
+    "start": "2022-01-25",
+    "end": "2022-01-26",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2022-jan@fed-calendar.github.io"
+  },
+  {
+    "year": 2022,
+    "label": "March",
+    "start": "2022-03-15",
+    "end": "2022-03-16",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2022-mar@fed-calendar.github.io"
+  },
+  {
+    "year": 2022,
+    "label": "May",
+    "start": "2022-05-03",
+    "end": "2022-05-04",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2022-may@fed-calendar.github.io"
+  },
+  {
+    "year": 2022,
+    "label": "June",
+    "start": "2022-06-14",
+    "end": "2022-06-15",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2022-jun@fed-calendar.github.io"
+  },
+  {
+    "year": 2022,
+    "label": "July",
+    "start": "2022-07-26",
+    "end": "2022-07-27",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2022-jul@fed-calendar.github.io"
+  },
+  {
+    "year": 2022,
+    "label": "September",
+    "start": "2022-09-20",
+    "end": "2022-09-21",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2022-sep@fed-calendar.github.io"
+  },
+  {
+    "year": 2022,
+    "label": "November",
+    "start": "2022-11-01",
+    "end": "2022-11-02",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2022-nov@fed-calendar.github.io"
+  },
+  {
+    "year": 2022,
+    "label": "December",
+    "start": "2022-12-13",
+    "end": "2022-12-14",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2022-dec@fed-calendar.github.io"
+  },
+  {
+    "year": 2023,
+    "label": "Jan/Feb",
+    "start": "2023-01-31",
+    "end": "2023-02-01",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2023-jan@fed-calendar.github.io"
+  },
+  {
+    "year": 2023,
+    "label": "March",
+    "start": "2023-03-21",
+    "end": "2023-03-22",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2023-mar@fed-calendar.github.io"
+  },
+  {
+    "year": 2023,
+    "label": "May",
+    "start": "2023-05-02",
+    "end": "2023-05-03",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2023-may@fed-calendar.github.io"
+  },
+  {
+    "year": 2023,
+    "label": "June",
+    "start": "2023-06-13",
+    "end": "2023-06-14",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2023-jun@fed-calendar.github.io"
+  },
+  {
+    "year": 2023,
+    "label": "July",
+    "start": "2023-07-25",
+    "end": "2023-07-26",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2023-jul@fed-calendar.github.io"
+  },
+  {
+    "year": 2023,
+    "label": "September",
+    "start": "2023-09-19",
+    "end": "2023-09-20",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2023-sep@fed-calendar.github.io"
+  },
+  {
+    "year": 2023,
+    "label": "Oct/Nov",
+    "start": "2023-10-31",
+    "end": "2023-11-01",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2023-oct@fed-calendar.github.io"
+  },
+  {
+    "year": 2023,
+    "label": "December",
+    "start": "2023-12-12",
+    "end": "2023-12-13",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2023-dec@fed-calendar.github.io"
+  },
+  {
+    "year": 2024,
+    "label": "January",
+    "start": "2024-01-30",
+    "end": "2024-01-31",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2024-jan@fed-calendar.github.io"
+  },
+  {
+    "year": 2024,
+    "label": "March",
+    "start": "2024-03-19",
+    "end": "2024-03-20",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2024-mar@fed-calendar.github.io"
+  },
+  {
+    "year": 2024,
+    "label": "Apr/May",
+    "start": "2024-04-30",
+    "end": "2024-05-01",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2024-apr@fed-calendar.github.io"
+  },
+  {
+    "year": 2024,
+    "label": "June",
+    "start": "2024-06-11",
+    "end": "2024-06-12",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2024-jun@fed-calendar.github.io"
+  },
+  {
+    "year": 2024,
+    "label": "July",
+    "start": "2024-07-30",
+    "end": "2024-07-31",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2024-jul@fed-calendar.github.io"
+  },
+  {
+    "year": 2024,
+    "label": "September",
+    "start": "2024-09-17",
+    "end": "2024-09-18",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2024-sep@fed-calendar.github.io"
+  },
+  {
+    "year": 2024,
+    "label": "November",
+    "start": "2024-11-06",
+    "end": "2024-11-07",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2024-nov@fed-calendar.github.io"
+  },
+  {
+    "year": 2024,
+    "label": "December",
+    "start": "2024-12-17",
+    "end": "2024-12-18",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2024-dec@fed-calendar.github.io"
+  },
+  {
+    "year": 2025,
+    "label": "January",
+    "start": "2025-01-28",
+    "end": "2025-01-29",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2025-jan@fed-calendar.github.io"
+  },
+  {
+    "year": 2025,
+    "label": "March",
+    "start": "2025-03-18",
+    "end": "2025-03-19",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2025-mar@fed-calendar.github.io"
+  },
+  {
+    "year": 2025,
+    "label": "May",
+    "start": "2025-05-06",
+    "end": "2025-05-07",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2025-may@fed-calendar.github.io"
+  },
+  {
+    "year": 2025,
+    "label": "June",
+    "start": "2025-06-17",
+    "end": "2025-06-18",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2025-jun@fed-calendar.github.io"
+  },
+  {
+    "year": 2025,
+    "label": "July",
+    "start": "2025-07-29",
+    "end": "2025-07-30",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2025-jul@fed-calendar.github.io"
+  },
+  {
+    "year": 2025,
+    "label": "August",
+    "start": "2025-08-22",
+    "end": "2025-08-22",
+    "sep": false,
+    "kind": "notation vote",
+    "uid": "fomc-2025-08-22-notation-vote@fed-calendar.github.io"
+  },
+  {
+    "year": 2025,
+    "label": "September",
+    "start": "2025-09-16",
+    "end": "2025-09-17",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2025-sep@fed-calendar.github.io"
+  },
+  {
+    "year": 2025,
+    "label": "October",
+    "start": "2025-10-28",
+    "end": "2025-10-29",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2025-oct@fed-calendar.github.io"
+  },
+  {
+    "year": 2025,
+    "label": "December",
+    "start": "2025-12-09",
+    "end": "2025-12-10",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2025-dec@fed-calendar.github.io"
+  },
+  {
+    "year": 2026,
+    "label": "January",
+    "start": "2026-01-27",
+    "end": "2026-01-28",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2026-jan@fed-calendar.github.io"
+  },
+  {
+    "year": 2026,
+    "label": "March",
+    "start": "2026-03-17",
+    "end": "2026-03-18",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2026-mar@fed-calendar.github.io"
+  },
+  {
+    "year": 2026,
+    "label": "April",
+    "start": "2026-04-28",
+    "end": "2026-04-29",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2026-apr@fed-calendar.github.io"
+  },
+  {
+    "year": 2026,
+    "label": "June",
+    "start": "2026-06-16",
+    "end": "2026-06-17",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2026-jun@fed-calendar.github.io"
+  },
+  {
+    "year": 2026,
+    "label": "July",
+    "start": "2026-07-28",
+    "end": "2026-07-29",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2026-jul@fed-calendar.github.io"
+  },
+  {
+    "year": 2026,
+    "label": "September",
+    "start": "2026-09-15",
+    "end": "2026-09-16",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2026-sep@fed-calendar.github.io"
+  },
+  {
+    "year": 2026,
+    "label": "October",
+    "start": "2026-10-27",
+    "end": "2026-10-28",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2026-oct@fed-calendar.github.io"
+  },
+  {
+    "year": 2026,
+    "label": "December",
+    "start": "2026-12-08",
+    "end": "2026-12-09",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2026-dec@fed-calendar.github.io"
+  },
+  {
+    "year": 2027,
+    "label": "January",
+    "start": "2027-01-26",
+    "end": "2027-01-27",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2027-jan@fed-calendar.github.io"
+  },
+  {
+    "year": 2027,
+    "label": "March",
+    "start": "2027-03-16",
+    "end": "2027-03-17",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2027-mar@fed-calendar.github.io"
+  },
+  {
+    "year": 2027,
+    "label": "April",
+    "start": "2027-04-27",
+    "end": "2027-04-28",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2027-apr@fed-calendar.github.io"
+  },
+  {
+    "year": 2027,
+    "label": "June",
+    "start": "2027-06-08",
+    "end": "2027-06-09",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2027-jun@fed-calendar.github.io"
+  },
+  {
+    "year": 2027,
+    "label": "July",
+    "start": "2027-07-27",
+    "end": "2027-07-28",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2027-jul@fed-calendar.github.io"
+  },
+  {
+    "year": 2027,
+    "label": "September",
+    "start": "2027-09-14",
+    "end": "2027-09-15",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2027-sep@fed-calendar.github.io"
+  },
+  {
+    "year": 2027,
+    "label": "October",
+    "start": "2027-10-26",
+    "end": "2027-10-27",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2027-oct@fed-calendar.github.io"
+  },
+  {
+    "year": 2027,
+    "label": "December",
+    "start": "2027-12-07",
+    "end": "2027-12-08",
+    "sep": true,
+    "kind": "scheduled",
+    "uid": "fomc-2027-dec@fed-calendar.github.io"
+  },
+  {
+    "year": 2028,
+    "label": "January",
+    "start": "2028-01-25",
+    "end": "2028-01-26",
+    "sep": false,
+    "kind": "scheduled",
+    "uid": "fomc-2028-jan@fed-calendar.github.io"
+  }
+]

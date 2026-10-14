@@ -1,0 +1,764 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fed-calendar//Federal Reserve meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FOMC meetings
+X-WR-CALDESC:Federal Open Market Committee meetings\, from federalreserve.g
+ ov. Updated daily.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2021-jan@fed-calendar.github.io
+DTSTART;VALUE=DATE:20210126
+DTEND;VALUE=DATE:20210128
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2021-mar@fed-calendar.github.io
+DTSTART;VALUE=DATE:20210316
+DTEND;VALUE=DATE:20210318
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2021-apr@fed-calendar.github.io
+DTSTART;VALUE=DATE:20210427
+DTEND;VALUE=DATE:20210429
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2021-jun@fed-calendar.github.io
+DTSTART;VALUE=DATE:20210615
+DTEND;VALUE=DATE:20210617
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2021-jul@fed-calendar.github.io
+DTSTART;VALUE=DATE:20210727
+DTEND;VALUE=DATE:20210729
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2021-sep@fed-calendar.github.io
+DTSTART;VALUE=DATE:20210921
+DTEND;VALUE=DATE:20210923
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2021-nov@fed-calendar.github.io
+DTSTART;VALUE=DATE:20211102
+DTEND;VALUE=DATE:20211104
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2021-dec@fed-calendar.github.io
+DTSTART;VALUE=DATE:20211214
+DTEND;VALUE=DATE:20211216
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2022-jan@fed-calendar.github.io
+DTSTART;VALUE=DATE:20220125
+DTEND;VALUE=DATE:20220127
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2022-mar@fed-calendar.github.io
+DTSTART;VALUE=DATE:20220315
+DTEND;VALUE=DATE:20220317
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2022-may@fed-calendar.github.io
+DTSTART;VALUE=DATE:20220503
+DTEND;VALUE=DATE:20220505
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2022-jun@fed-calendar.github.io
+DTSTART;VALUE=DATE:20220614
+DTEND;VALUE=DATE:20220616
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2022-jul@fed-calendar.github.io
+DTSTART;VALUE=DATE:20220726
+DTEND;VALUE=DATE:20220728
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2022-sep@fed-calendar.github.io
+DTSTART;VALUE=DATE:20220920
+DTEND;VALUE=DATE:20220922
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2022-nov@fed-calendar.github.io
+DTSTART;VALUE=DATE:20221101
+DTEND;VALUE=DATE:20221103
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2022-dec@fed-calendar.github.io
+DTSTART;VALUE=DATE:20221213
+DTEND;VALUE=DATE:20221215
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2023-jan@fed-calendar.github.io
+DTSTART;VALUE=DATE:20230131
+DTEND;VALUE=DATE:20230202
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2023-mar@fed-calendar.github.io
+DTSTART;VALUE=DATE:20230321
+DTEND;VALUE=DATE:20230323
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2023-may@fed-calendar.github.io
+DTSTART;VALUE=DATE:20230502
+DTEND;VALUE=DATE:20230504
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2023-jun@fed-calendar.github.io
+DTSTART;VALUE=DATE:20230613
+DTEND;VALUE=DATE:20230615
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2023-jul@fed-calendar.github.io
+DTSTART;VALUE=DATE:20230725
+DTEND;VALUE=DATE:20230727
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2023-sep@fed-calendar.github.io
+DTSTART;VALUE=DATE:20230919
+DTEND;VALUE=DATE:20230921
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2023-oct@fed-calendar.github.io
+DTSTART;VALUE=DATE:20231031
+DTEND;VALUE=DATE:20231102
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2023-dec@fed-calendar.github.io
+DTSTART;VALUE=DATE:20231212
+DTEND;VALUE=DATE:20231214
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2024-jan@fed-calendar.github.io
+DTSTART;VALUE=DATE:20240130
+DTEND;VALUE=DATE:20240201
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2024-mar@fed-calendar.github.io
+DTSTART;VALUE=DATE:20240319
+DTEND;VALUE=DATE:20240321
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2024-apr@fed-calendar.github.io
+DTSTART;VALUE=DATE:20240430
+DTEND;VALUE=DATE:20240502
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2024-jun@fed-calendar.github.io
+DTSTART;VALUE=DATE:20240611
+DTEND;VALUE=DATE:20240613
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2024-jul@fed-calendar.github.io
+DTSTART;VALUE=DATE:20240730
+DTEND;VALUE=DATE:20240801
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2024-sep@fed-calendar.github.io
+DTSTART;VALUE=DATE:20240917
+DTEND;VALUE=DATE:20240919
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2024-nov@fed-calendar.github.io
+DTSTART;VALUE=DATE:20241106
+DTEND;VALUE=DATE:20241108
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2024-dec@fed-calendar.github.io
+DTSTART;VALUE=DATE:20241217
+DTEND;VALUE=DATE:20241219
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2025-jan@fed-calendar.github.io
+DTSTART;VALUE=DATE:20250128
+DTEND;VALUE=DATE:20250130
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2025-mar@fed-calendar.github.io
+DTSTART;VALUE=DATE:20250318
+DTEND;VALUE=DATE:20250320
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2025-may@fed-calendar.github.io
+DTSTART;VALUE=DATE:20250506
+DTEND;VALUE=DATE:20250508
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2025-jun@fed-calendar.github.io
+DTSTART;VALUE=DATE:20250617
+DTEND;VALUE=DATE:20250619
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2025-jul@fed-calendar.github.io
+DTSTART;VALUE=DATE:20250729
+DTEND;VALUE=DATE:20250731
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2025-08-22-notation-vote@fed-calendar.github.io
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250823
+SUMMARY:FOMC notation vote
+DESCRIPTION:FOMC notation vote.\n\nSource: https://www.federalreserve.gov/m
+ onetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2025-sep@fed-calendar.github.io
+DTSTART;VALUE=DATE:20250916
+DTEND;VALUE=DATE:20250918
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2025-oct@fed-calendar.github.io
+DTSTART;VALUE=DATE:20251028
+DTEND;VALUE=DATE:20251030
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2025-dec@fed-calendar.github.io
+DTSTART;VALUE=DATE:20251209
+DTEND;VALUE=DATE:20251211
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2026-jan@fed-calendar.github.io
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260129
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2026-mar@fed-calendar.github.io
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260319
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2026-apr@fed-calendar.github.io
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260430
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2026-jun@fed-calendar.github.io
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260618
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2026-jul@fed-calendar.github.io
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260730
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2026-sep@fed-calendar.github.io
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260917
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2026-oct@fed-calendar.github.io
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261029
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2026-dec@fed-calendar.github.io
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261210
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2027-jan@fed-calendar.github.io
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270128
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2027-mar@fed-calendar.github.io
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270318
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2027-apr@fed-calendar.github.io
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270429
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2027-jun@fed-calendar.github.io
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270610
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2027-jul@fed-calendar.github.io
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270729
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2027-sep@fed-calendar.github.io
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270916
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2027-oct@fed-calendar.github.io
+DTSTART;VALUE=DATE:20271026
+DTEND;VALUE=DATE:20271028
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2027-dec@fed-calendar.github.io
+DTSTART;VALUE=DATE:20271207
+DTEND;VALUE=DATE:20271209
+SUMMARY:FOMC meeting (with projections)
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
+ re tentative until confirmed at the meeting immediately preceding.\n\nSour
+ ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:fomc-2028-jan@fed-calendar.github.io
+DTSTART;VALUE=DATE:20280125
+DTEND;VALUE=DATE:20280127
+SUMMARY:FOMC meeting
+DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,173 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fed-calendar//Federal Reserve meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fed Board meetings
+X-WR-CALDESC:Federal Reserve Board of Governors meetings\, from the Board's
+  Sunshine Act notices.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:board-b7f360ffbd6e-1@fed-calendar.github.io
+DTSTART:20260428T140000Z
+DTEND:20260428T150000Z
+SUMMARY:Fed Board: monetary policy discussion
+DESCRIPTION:Closed meeting of the Board of Governors. Matter(s) considered:
+  Discussion of Monetary Policy Issues.\nEnd time is not published\; shown 
+ as one hour.\n\nNotice: https://www.federalreserve.gov/aboutthefed/boardme
+ etings/20260428closed.htm
+URL:https://www.federalreserve.gov/aboutthefed/boardmeetings/20260428closed
+ .htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:board-b7f360ffbd6e-2@fed-calendar.github.io
+DTSTART:20260429T130000Z
+DTEND:20260429T140000Z
+SUMMARY:Fed Board: monetary policy discussion
+DESCRIPTION:Closed meeting of the Board of Governors. Matter(s) considered:
+  Discussion of Monetary Policy Issues. (continued session)\nEnd time is no
+ t published\; shown as one hour.\n\nNotice: https://www.federalreserve.gov
+ /aboutthefed/boardmeetings/20260428closed.htm
+URL:https://www.federalreserve.gov/aboutthefed/boardmeetings/20260428closed
+ .htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:board-0e6dd22b0cfa-1@fed-calendar.github.io
+DTSTART:20260608T153000Z
+DTEND:20260608T163000Z
+SUMMARY:Fed Board: discount rate review
+DESCRIPTION:Closed meeting of the Board of Governors. Matter(s) considered:
+  Review and determination by the Board of Governors of the advance and dis
+ count rates to be charged by the Federal Reserve Banks.\nEnd time is not p
+ ublished\; shown as one hour.\n\nNotice: https://www.federalreserve.gov/ab
+ outthefed/boardmeetings/20260608closed.htm
+URL:https://www.federalreserve.gov/aboutthefed/boardmeetings/20260608closed
+ .htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:board-b4b9b3b3f6e2-1@fed-calendar.github.io
+DTSTART:20260616T140000Z
+DTEND:20260616T150000Z
+SUMMARY:Fed Board: monetary policy discussion
+DESCRIPTION:Closed meeting of the Board of Governors. Matter(s) considered:
+  Discussion of Monetary Policy Issues.\nEnd time is not published\; shown 
+ as one hour.\n\nNotice: https://www.federalreserve.gov/aboutthefed/boardme
+ etings/20260616closed.htm
+URL:https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed
+ .htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:board-b4b9b3b3f6e2-2@fed-calendar.github.io
+DTSTART:20260617T130000Z
+DTEND:20260617T140000Z
+SUMMARY:Fed Board: monetary policy discussion
+DESCRIPTION:Closed meeting of the Board of Governors. Matter(s) considered:
+  Discussion of Monetary Policy Issues. (continued session)\nEnd time is no
+ t published\; shown as one hour.\n\nNotice: https://www.federalreserve.gov
+ /aboutthefed/boardmeetings/20260616closed.htm
+URL:https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed
+ .htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:board-7baf335378dd-1@fed-calendar.github.io
+DTSTART:20260720T193000Z
+DTEND:20260720T203000Z
+SUMMARY:Fed Board: discount rate review
+DESCRIPTION:Closed meeting of the Board of Governors. Matter(s) considered:
+  Review and determination by the Board of Governors of the advance and dis
+ count rates to be charged by the Federal Reserve Banks.\nEnd time is not p
+ ublished\; shown as one hour.\n\nNotice: https://www.federalreserve.gov/ab
+ outthefed/boardmeetings/20260720closed.htm
+URL:https://www.federalreserve.gov/aboutthefed/boardmeetings/20260720closed
+ .htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:board-ec1c94952be0-1@fed-calendar.github.io
+DTSTART:20260721T130000Z
+DTEND:20260721T140000Z
+SUMMARY:Fed Board: financial markets briefing
+DESCRIPTION:Closed meeting of the Board of Governors. Matter(s) considered:
+  Periodic Briefing and Discussion on Financial Markets\, Institutions\, an
+ d Infrastructure.\nEnd time is not published\; shown as one hour.\n\nNotic
+ e: https://www.federalreserve.gov/aboutthefed/boardmeetings/20260721closed
+ .htm
+URL:https://www.federalreserve.gov/aboutthefed/boardmeetings/20260721closed
+ .htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:board-e8cb16f568e5-1@fed-calendar.github.io
+DTSTART:20260728T140000Z
+DTEND:20260728T150000Z
+SUMMARY:Fed Board: monetary policy discussion
+DESCRIPTION:Closed meeting of the Board of Governors. Matter(s) considered:
+  Discussion of Monetary Policy Issues.\nEnd time is not published\; shown 
+ as one hour.\n\nNotice: https://www.federalreserve.gov/aboutthefed/boardme
+ etings/20260728closed.htm
+URL:https://www.federalreserve.gov/aboutthefed/boardmeetings/20260728closed
+ .htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:board-e8cb16f568e5-2@fed-calendar.github.io
+DTSTART:20260729T130000Z
+DTEND:20260729T140000Z
+SUMMARY:Fed Board: monetary policy discussion
+DESCRIPTION:Closed meeting of the Board of Governors. Matter(s) considered:
+  Discussion of Monetary Policy Issues. (continued session)\nEnd time is no
+ t published\; shown as one hour.\n\nNotice: https://www.federalreserve.gov
+ /aboutthefed/boardmeetings/20260728closed.htm
+URL:https://www.federalreserve.gov/aboutthefed/boardmeetings/20260728closed
+ .htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:board-51e06c96e644-1@fed-calendar.github.io
+DTSTART:20260817T143000Z
+DTEND:20260817T153000Z
+SUMMARY:Fed Board: discount rate review
+DESCRIPTION:Closed meeting of the Board of Governors. Matter(s) considered:
+  Review and determination by the Board of Governors of the advance and dis
+ count rates to be charged by the Federal Reserve Banks.\n\nOriginally anno
+ unced for 11:00 AM ET on August 17\, 2026.\nEnd time is not published\; sh
+ own as one hour.\n\nNotice: https://www.federalreserve.gov/aboutthefed/boa
+ rdmeetings/20260817closed.htm
+URL:https://www.federalreserve.gov/aboutthefed/boardmeetings/20260817closed
+ .htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T154740Z
+UID:board-701df78a7c91-1@fed-calendar.github.io
+DTSTART:20260909T160000Z
+DTEND:20260909T170000Z
+SUMMARY:Fed Board: discount rate review
+DESCRIPTION:Closed meeting of the Board of Governors. Matter(s) considered:
+  Review and determination by the Board of Governors of the advance and dis
+ count rates to be charged by the Federal Reserve Banks.\n\nAnnounced\; not
+  yet confirmed as held.\nEnd time is not published\; shown as one hour.\n\
+ nNotice: https://www.federalreserve.gov/aboutthefed/boardmeetings/20260809
+ closed.htm
+URL:https://www.federalreserve.gov/aboutthefed/boardmeetings/20260809closed
+ .htm
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

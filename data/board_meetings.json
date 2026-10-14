@@ -1,0 +1,79 @@
+{
+  "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260428closed.htm": {
+    "link": "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260428closed.htm",
+    "matter": "Discussion of Monetary Policy Issues.",
+    "status": "held",
+    "sessions": [
+      "2026-04-28T10:00:00-04:00",
+      "2026-04-29T09:00:00-04:00"
+    ],
+    "announced_sessions": null
+  },
+  "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260608closed.htm": {
+    "link": "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260608closed.htm",
+    "matter": "Review and determination by the Board of Governors of the advance and discount rates to be charged by the Federal Reserve Banks.",
+    "status": "held",
+    "sessions": [
+      "2026-06-08T11:30:00-04:00"
+    ],
+    "announced_sessions": null
+  },
+  "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm": {
+    "link": "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm",
+    "matter": "Discussion of Monetary Policy Issues.",
+    "status": "held",
+    "sessions": [
+      "2026-06-16T10:00:00-04:00",
+      "2026-06-17T09:00:00-04:00"
+    ],
+    "announced_sessions": null
+  },
+  "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260720closed.htm": {
+    "link": "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260720closed.htm",
+    "matter": "Review and determination by the Board of Governors of the advance and discount rates to be charged by the Federal Reserve Banks.",
+    "status": "held",
+    "sessions": [
+      "2026-07-20T15:30:00-04:00"
+    ],
+    "announced_sessions": null
+  },
+  "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260721closed.htm": {
+    "link": "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260721closed.htm",
+    "matter": "Periodic Briefing and Discussion on Financial Markets, Institutions, and Infrastructure.",
+    "status": "held",
+    "sessions": [
+      "2026-07-21T09:00:00-04:00"
+    ],
+    "announced_sessions": null
+  },
+  "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260728closed.htm": {
+    "link": "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260728closed.htm",
+    "matter": "Discussion of Monetary Policy Issues.",
+    "status": "held",
+    "sessions": [
+      "2026-07-28T10:00:00-04:00",
+      "2026-07-29T09:00:00-04:00"
+    ],
+    "announced_sessions": null
+  },
+  "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260817closed.htm": {
+    "link": "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260817closed.htm",
+    "matter": "Review and determination by the Board of Governors of the advance and discount rates to be charged by the Federal Reserve Banks.",
+    "status": "held",
+    "sessions": [
+      "2026-08-17T10:30:00-04:00"
+    ],
+    "announced_sessions": [
+      "2026-08-17T11:00:00-04:00"
+    ]
+  },
+  "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260809closed.htm": {
+    "link": "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260809closed.htm",
+    "matter": "Review and determination by the Board of Governors of the advance and discount rates to be charged by the Federal Reserve Banks.",
+    "status": "announced",
+    "sessions": [
+      "2026-09-09T12:00:00-04:00"
+    ],
+    "announced_sessions": null
+  }
+}
