@@ -2,15 +2,19 @@
 """Build subscribable .ics calendars from the Federal Reserve's public pages.
 
 Outputs (served by GitHub Pages from docs/):
-  docs/fomc.ics   FOMC meetings, from the FOMC meeting calendar page
-  docs/board.ics  Board of Governors meetings, from the Board meetings RSS feed
+  docs/fomc.ics      FOMC meetings, from the FOMC meeting calendar page
+  docs/blackout.ics  FOMC communications blackout periods, calculated from
+                     those meetings using the Fed's published rule
+  docs/board.ics     Board of Governors meetings, from the Board meetings RSS feed
 
 State (committed so history survives after items drop off the RSS feed):
   data/fomc_meetings.json
   data/board_meetings.json
+  data/blackout_pdf.json  fingerprint of the Fed's blackout calendar PDF
 
-If the FOMC schedule changed since the last run, a summary is written to
-changes.md, which the workflow turns into a GitHub issue (GitHub emails you).
+If the FOMC schedule changed since the last run, or the Fed's blackout
+calendar PDF changed, a summary is written to changes.md, which the workflow
+turns into a GitHub issue (GitHub emails you).
 
 Standard library only. Exits non-zero if the page can't be read or parsed,
 so a broken run fails loudly instead of publishing an empty calendar.
@@ -31,6 +35,8 @@ from zoneinfo import ZoneInfo
 
 FOMC_URL = "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
 BOARD_RSS_URL = "https://www.federalreserve.gov/feeds/boardmeetings.xml"
+BLACKOUT_PDF_URL = "https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf"
+BLACKOUT_RULE_URL = "https://www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf"
 USER_AGENT = "fed-calendar-ics/1.0 (personal calendar feed; GitHub Actions)"
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -54,10 +60,14 @@ def month_num(name: str) -> int:
     raise ValueError(f"Unknown month: {name!r}")
 
 
-def fetch(url: str) -> str:
+def fetch_bytes(url: str) -> bytes:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=30) as resp:
-        return resp.read().decode("utf-8-sig", errors="replace")
+        return resp.read()
+
+
+def fetch(url: str) -> str:
+    return fetch_bytes(url).decode("utf-8-sig", errors="replace")
 
 
 # ---------------------------------------------------------------- FOMC page
@@ -327,6 +337,71 @@ def fomc_events(meetings: list[dict]) -> list[list[str]]:
     return evs
 
 
+def blackout_window(m: dict) -> tuple[dt.date, dt.date]:
+    """First and last day of the blackout for a meeting, both inclusive.
+
+    The rule: begins 12:00 a.m. ET the second Saturday before the meeting,
+    ends 11:59 p.m. ET the day after the meeting.
+    """
+    start = dt.date.fromisoformat(m["start"])
+    end = dt.date.fromisoformat(m["end"])
+    days_back = (start.weekday() - 5) % 7 or 7   # the Saturday before start
+    first = start - dt.timedelta(days=days_back + 7)
+    return first, end + dt.timedelta(days=1)
+
+
+def blackout_events(meetings: list[dict]) -> list[list[str]]:
+    evs = []
+    for m in meetings:
+        if m["kind"] != "scheduled":
+            continue
+        first, last = blackout_window(m)
+        mstart = dt.date.fromisoformat(m["start"])
+        mend = dt.date.fromisoformat(m["end"])
+        meeting_txt = (f"{mstart:%B} {mstart.day}"
+                       + (f"–{mend.day}" if mend.month == mstart.month and mend != mstart
+                          else f" – {mend:%B} {mend.day}" if mend != mstart else "")
+                       + f", {mstart.year}")
+        desc = (f"FOMC communications blackout for the {meeting_txt} meeting. "
+                f"Begins 12:00 a.m. ET {first:%A, %B} {first.day} and ends "
+                f"11:59 p.m. ET {last:%A, %B} {last.day}. Committee participants "
+                "and staff generally don't speak publicly about monetary policy "
+                "during this period."
+                "\n\nCalculated from the Fed's rule (second Saturday before the "
+                "meeting through the day after). Check the official calendar for "
+                f"exceptions: {BLACKOUT_PDF_URL}"
+                f"\nRule: {BLACKOUT_RULE_URL}")
+        uid = m["uid"].replace("fomc-", "fomc-blackout-", 1)
+        evs.append([f"UID:{uid}",
+                    f"DTSTART;VALUE=DATE:{first:%Y%m%d}",
+                    f"DTEND;VALUE=DATE:{last + dt.timedelta(days=1):%Y%m%d}",
+                    f"SUMMARY:{esc('FOMC blackout')}",
+                    f"DESCRIPTION:{esc(desc)}",
+                    f"URL:{BLACKOUT_PDF_URL}",
+                    "TRANSP:TRANSPARENT"])
+    return evs
+
+
+def check_blackout_pdf(state_path: Path, pdf: bytes | None) -> list[str]:
+    """Fingerprint the official blackout PDF; report if it changed."""
+    if pdf is None:
+        return []
+    if not pdf.startswith(b"%PDF"):
+        print("WARNING: blackout calendar URL did not return a PDF; skipping check.")
+        return []
+    digest = hashlib.sha256(pdf).hexdigest()
+    old = load_json(state_path, {}).get("sha256")
+    state_path.write_text(json.dumps({"url": BLACKOUT_PDF_URL, "sha256": digest,
+                                      "bytes": len(pdf)}, indent=2) + "\n",
+                          encoding="utf-8")
+    if old and old != digest:
+        return ["The Fed updated its official FOMC blackout calendar PDF. "
+                "Compare it with the calculated dates in `blackout.ics`, which "
+                "follow the standard rule and won't show exceptions: "
+                f"{BLACKOUT_PDF_URL}"]
+    return []
+
+
 def board_events(state: dict) -> list[list[str]]:
     evs = []
     for key in sorted(state, key=lambda k: state[k]["sessions"][0]):
@@ -398,15 +473,16 @@ def main() -> None:
     meetings = parse_fomc(fomc_html)
     validate_fomc(meetings, today)
 
+    sections: list[str] = []
     fomc_state = DATA / "fomc_meetings.json"
     old = load_json(fomc_state, None)
     if old is not None:
         changes = diff_fomc(old, meetings)
         if changes:
-            CHANGES_FILE.write_text(
-                "The Federal Reserve's FOMC meeting calendar changed:\n\n"
-                + "\n".join(changes)
-                + f"\n\nSource: {FOMC_URL}\n", encoding="utf-8")
+            sections.append(
+                "The Federal Reserve's FOMC meeting calendar changed. Blackout "
+                "periods in `blackout.ics` have been recalculated to match.\n\n"
+                + "\n".join(changes) + f"\n\nSource: {FOMC_URL}")
             print("FOMC schedule changes:\n" + "\n".join(changes))
     fomc_state.write_text(json.dumps(meetings, indent=2) + "\n", encoding="utf-8")
 
@@ -415,6 +491,24 @@ def main() -> None:
         "Federal Open Market Committee meetings, from federalreserve.gov. Updated daily.",
         fomc_events(meetings), stamp))
     print(f"fomc.ics: {len(meetings)} events, {'updated' if changed else 'unchanged'}")
+
+    blackouts = blackout_events(meetings)
+    changed = write_if_changed(DOCS / "blackout.ics", calendar(
+        "FOMC blackout periods",
+        "FOMC communications blackout periods, calculated from the meeting "
+        "schedule using the Fed's published rule. Updated daily.",
+        blackouts, stamp))
+    print(f"blackout.ics: {len(blackouts)} periods, {'updated' if changed else 'unchanged'}")
+
+    try:
+        pdf = Path(sys.argv[3]).read_bytes() if len(sys.argv) > 3 else fetch_bytes(BLACKOUT_PDF_URL)
+    except Exception as exc:  # the calendars above are still valid without it
+        print(f"WARNING: couldn't download the blackout calendar PDF ({exc}); skipping check.")
+        pdf = None
+    sections += check_blackout_pdf(DATA / "blackout_pdf.json", pdf)
+
+    if sections:
+        CHANGES_FILE.write_text("\n\n---\n\n".join(sections) + "\n", encoding="utf-8")
 
     board_xml = Path(sys.argv[2]).read_text() if len(sys.argv) > 2 else fetch(BOARD_RSS_URL)
     board_state_path = DATA / "board_meetings.json"
