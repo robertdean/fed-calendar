@@ -10,7 +10,7 @@ X-WR-TIMEZONE:America/New_York
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2021-jan@fed-calendar.github.io
 DTSTART;VALUE=DATE:20210116
 DTEND;VALUE=DATE:20210129
@@ -29,7 +29,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2021-mar@fed-calendar.github.io
 DTSTART;VALUE=DATE:20210306
 DTEND;VALUE=DATE:20210319
@@ -47,7 +47,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2021-apr@fed-calendar.github.io
 DTSTART;VALUE=DATE:20210417
 DTEND;VALUE=DATE:20210430
@@ -65,7 +65,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2021-jun@fed-calendar.github.io
 DTSTART;VALUE=DATE:20210605
 DTEND;VALUE=DATE:20210618
@@ -83,7 +83,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2021-jul@fed-calendar.github.io
 DTSTART;VALUE=DATE:20210717
 DTEND;VALUE=DATE:20210730
@@ -101,7 +101,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2021-sep@fed-calendar.github.io
 DTSTART;VALUE=DATE:20210911
 DTEND;VALUE=DATE:20210924
@@ -120,7 +120,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2021-nov@fed-calendar.github.io
 DTSTART;VALUE=DATE:20211023
 DTEND;VALUE=DATE:20211105
@@ -139,7 +139,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2021-dec@fed-calendar.github.io
 DTSTART;VALUE=DATE:20211204
 DTEND;VALUE=DATE:20211217
@@ -158,7 +158,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2022-jan@fed-calendar.github.io
 DTSTART;VALUE=DATE:20220115
 DTEND;VALUE=DATE:20220128
@@ -177,7 +177,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2022-mar@fed-calendar.github.io
 DTSTART;VALUE=DATE:20220305
 DTEND;VALUE=DATE:20220318
@@ -195,7 +195,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2022-may@fed-calendar.github.io
 DTSTART;VALUE=DATE:20220423
 DTEND;VALUE=DATE:20220506
@@ -213,7 +213,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2022-jun@fed-calendar.github.io
 DTSTART;VALUE=DATE:20220604
 DTEND;VALUE=DATE:20220617
@@ -231,7 +231,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2022-jul@fed-calendar.github.io
 DTSTART;VALUE=DATE:20220716
 DTEND;VALUE=DATE:20220729
@@ -249,7 +249,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2022-sep@fed-calendar.github.io
 DTSTART;VALUE=DATE:20220910
 DTEND;VALUE=DATE:20220923
@@ -268,7 +268,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2022-nov@fed-calendar.github.io
 DTSTART;VALUE=DATE:20221022
 DTEND;VALUE=DATE:20221104
@@ -287,7 +287,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2022-dec@fed-calendar.github.io
 DTSTART;VALUE=DATE:20221203
 DTEND;VALUE=DATE:20221216
@@ -306,7 +306,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2023-jan@fed-calendar.github.io
 DTSTART;VALUE=DATE:20230121
 DTEND;VALUE=DATE:20230203
@@ -325,7 +325,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2023-mar@fed-calendar.github.io
 DTSTART;VALUE=DATE:20230311
 DTEND;VALUE=DATE:20230324
@@ -343,7 +343,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2023-may@fed-calendar.github.io
 DTSTART;VALUE=DATE:20230422
 DTEND;VALUE=DATE:20230505
@@ -361,7 +361,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2023-jun@fed-calendar.github.io
 DTSTART;VALUE=DATE:20230603
 DTEND;VALUE=DATE:20230616
@@ -379,7 +379,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2023-jul@fed-calendar.github.io
 DTSTART;VALUE=DATE:20230715
 DTEND;VALUE=DATE:20230728
@@ -397,7 +397,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2023-sep@fed-calendar.github.io
 DTSTART;VALUE=DATE:20230909
 DTEND;VALUE=DATE:20230922
@@ -416,7 +416,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2023-oct@fed-calendar.github.io
 DTSTART;VALUE=DATE:20231021
 DTEND;VALUE=DATE:20231103
@@ -435,7 +435,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2023-dec@fed-calendar.github.io
 DTSTART;VALUE=DATE:20231202
 DTEND;VALUE=DATE:20231215
@@ -454,7 +454,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2024-jan@fed-calendar.github.io
 DTSTART;VALUE=DATE:20240120
 DTEND;VALUE=DATE:20240202
@@ -473,7 +473,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2024-mar@fed-calendar.github.io
 DTSTART;VALUE=DATE:20240309
 DTEND;VALUE=DATE:20240322
@@ -491,7 +491,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2024-apr@fed-calendar.github.io
 DTSTART;VALUE=DATE:20240420
 DTEND;VALUE=DATE:20240503
@@ -509,7 +509,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2024-jun@fed-calendar.github.io
 DTSTART;VALUE=DATE:20240601
 DTEND;VALUE=DATE:20240614
@@ -527,7 +527,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2024-jul@fed-calendar.github.io
 DTSTART;VALUE=DATE:20240720
 DTEND;VALUE=DATE:20240802
@@ -545,7 +545,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2024-sep@fed-calendar.github.io
 DTSTART;VALUE=DATE:20240907
 DTEND;VALUE=DATE:20240920
@@ -564,7 +564,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2024-nov@fed-calendar.github.io
 DTSTART;VALUE=DATE:20241026
 DTEND;VALUE=DATE:20241109
@@ -582,7 +582,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2024-dec@fed-calendar.github.io
 DTSTART;VALUE=DATE:20241207
 DTEND;VALUE=DATE:20241220
@@ -601,7 +601,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2025-jan@fed-calendar.github.io
 DTSTART;VALUE=DATE:20250118
 DTEND;VALUE=DATE:20250131
@@ -620,7 +620,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2025-mar@fed-calendar.github.io
 DTSTART;VALUE=DATE:20250308
 DTEND;VALUE=DATE:20250321
@@ -638,7 +638,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2025-may@fed-calendar.github.io
 DTSTART;VALUE=DATE:20250426
 DTEND;VALUE=DATE:20250509
@@ -656,7 +656,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2025-jun@fed-calendar.github.io
 DTSTART;VALUE=DATE:20250607
 DTEND;VALUE=DATE:20250620
@@ -674,7 +674,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2025-jul@fed-calendar.github.io
 DTSTART;VALUE=DATE:20250719
 DTEND;VALUE=DATE:20250801
@@ -692,7 +692,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2025-sep@fed-calendar.github.io
 DTSTART;VALUE=DATE:20250906
 DTEND;VALUE=DATE:20250919
@@ -711,7 +711,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2025-oct@fed-calendar.github.io
 DTSTART;VALUE=DATE:20251018
 DTEND;VALUE=DATE:20251031
@@ -730,7 +730,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2025-dec@fed-calendar.github.io
 DTSTART;VALUE=DATE:20251129
 DTEND;VALUE=DATE:20251212
@@ -749,7 +749,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2026-jan@fed-calendar.github.io
 DTSTART;VALUE=DATE:20260117
 DTEND;VALUE=DATE:20260130
@@ -768,7 +768,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2026-mar@fed-calendar.github.io
 DTSTART;VALUE=DATE:20260307
 DTEND;VALUE=DATE:20260320
@@ -786,7 +786,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2026-apr@fed-calendar.github.io
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260501
@@ -804,7 +804,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2026-jun@fed-calendar.github.io
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260619
@@ -822,7 +822,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2026-jul@fed-calendar.github.io
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260731
@@ -840,7 +840,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2026-sep@fed-calendar.github.io
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260918
@@ -859,7 +859,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2026-oct@fed-calendar.github.io
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261030
@@ -878,7 +878,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2026-dec@fed-calendar.github.io
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261211
@@ -897,7 +897,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2027-jan@fed-calendar.github.io
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270129
@@ -916,7 +916,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2027-mar@fed-calendar.github.io
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270319
@@ -934,7 +934,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2027-apr@fed-calendar.github.io
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270430
@@ -952,7 +952,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2027-jun@fed-calendar.github.io
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270611
@@ -970,7 +970,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2027-jul@fed-calendar.github.io
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270730
@@ -988,7 +988,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2027-sep@fed-calendar.github.io
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270917
@@ -1007,7 +1007,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2027-oct@fed-calendar.github.io
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271029
@@ -1026,26 +1026,26 @@ URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
-UID:fomc-blackout-2027-dec@fed-calendar.github.io
-DTSTART;VALUE=DATE:20271127
-DTEND;VALUE=DATE:20271210
+DTSTAMP:20261113T112213Z
+UID:fomc-blackout-2027-nov@fed-calendar.github.io
+DTSTART;VALUE=DATE:20271106
+DTEND;VALUE=DATE:20271119
 SUMMARY:FOMC blackout
-DESCRIPTION:FOMC communications blackout for the December 7–8\, 2027 meet
- ing. Begins 12:00 a.m. ET Saturday\, November 27 and ends 11:59 p.m. ET Th
- ursday\, December 9. Committee participants and staff generally don't spea
- k publicly about monetary policy during this period.\n\nCalculated from th
- e Fed's rule (second Saturday before the meeting through the day after). C
- heck the official calendar for exceptions: https://www.federalreserve.gov/
- monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://www.
- federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.
- pdf
+DESCRIPTION:FOMC communications blackout for the November 16–17\, 2027 me
+ eting. Begins 12:00 a.m. ET Saturday\, November 6 and ends 11:59 p.m. ET T
+ hursday\, November 18. Committee participants and staff generally don't sp
+ eak publicly about monetary policy during this period.\n\nCalculated from 
+ the Fed's rule (second Saturday before the meeting through the day after).
+  Check the official calendar for exceptions: https://www.federalreserve.go
+ v/monetarypolicy/files/fomc-blackout-period-calendar.pdf\nRule: https://ww
+ w.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipant
+ s.pdf
 URL:https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-perio
  d-calendar.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170227Z
+DTSTAMP:20261113T112213Z
 UID:fomc-blackout-2028-jan@fed-calendar.github.io
 DTSTART;VALUE=DATE:20280115
 DTEND;VALUE=DATE:20280128

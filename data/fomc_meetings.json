@@ -454,7 +454,7 @@
     "label": "March",
     "start": "2027-03-16",
     "end": "2027-03-17",
-    "sep": true,
+    "sep": false,
     "kind": "scheduled",
     "uid": "fomc-2027-mar@fed-calendar.github.io"
   },
@@ -472,7 +472,7 @@
     "label": "June",
     "start": "2027-06-08",
     "end": "2027-06-09",
-    "sep": true,
+    "sep": false,
     "kind": "scheduled",
     "uid": "fomc-2027-jun@fed-calendar.github.io"
   },
@@ -490,7 +490,7 @@
     "label": "September",
     "start": "2027-09-14",
     "end": "2027-09-15",
-    "sep": true,
+    "sep": false,
     "kind": "scheduled",
     "uid": "fomc-2027-sep@fed-calendar.github.io"
   },
@@ -505,12 +505,12 @@
   },
   {
     "year": 2027,
-    "label": "December",
-    "start": "2027-12-07",
-    "end": "2027-12-08",
-    "sep": true,
+    "label": "November",
+    "start": "2027-11-16",
+    "end": "2027-11-17",
+    "sep": false,
     "kind": "scheduled",
-    "uid": "fomc-2027-dec@fed-calendar.github.io"
+    "uid": "fomc-2027-nov@fed-calendar.github.io"
   },
   {
     "year": 2028,

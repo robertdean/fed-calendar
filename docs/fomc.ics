@@ -10,7 +10,7 @@ X-WR-TIMEZONE:America/New_York
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2021-jan@fed-calendar.github.io
 DTSTART;VALUE=DATE:20210126
 DTEND;VALUE=DATE:20210128
@@ -23,7 +23,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2021-mar@fed-calendar.github.io
 DTSTART;VALUE=DATE:20210316
 DTEND;VALUE=DATE:20210318
@@ -36,7 +36,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2021-apr@fed-calendar.github.io
 DTSTART;VALUE=DATE:20210427
 DTEND;VALUE=DATE:20210429
@@ -49,7 +49,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2021-jun@fed-calendar.github.io
 DTSTART;VALUE=DATE:20210615
 DTEND;VALUE=DATE:20210617
@@ -62,7 +62,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2021-jul@fed-calendar.github.io
 DTSTART;VALUE=DATE:20210727
 DTEND;VALUE=DATE:20210729
@@ -75,7 +75,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2021-sep@fed-calendar.github.io
 DTSTART;VALUE=DATE:20210921
 DTEND;VALUE=DATE:20210923
@@ -88,7 +88,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2021-nov@fed-calendar.github.io
 DTSTART;VALUE=DATE:20211102
 DTEND;VALUE=DATE:20211104
@@ -101,7 +101,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2021-dec@fed-calendar.github.io
 DTSTART;VALUE=DATE:20211214
 DTEND;VALUE=DATE:20211216
@@ -114,7 +114,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2022-jan@fed-calendar.github.io
 DTSTART;VALUE=DATE:20220125
 DTEND;VALUE=DATE:20220127
@@ -127,7 +127,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2022-mar@fed-calendar.github.io
 DTSTART;VALUE=DATE:20220315
 DTEND;VALUE=DATE:20220317
@@ -140,7 +140,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2022-may@fed-calendar.github.io
 DTSTART;VALUE=DATE:20220503
 DTEND;VALUE=DATE:20220505
@@ -153,7 +153,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2022-jun@fed-calendar.github.io
 DTSTART;VALUE=DATE:20220614
 DTEND;VALUE=DATE:20220616
@@ -166,7 +166,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2022-jul@fed-calendar.github.io
 DTSTART;VALUE=DATE:20220726
 DTEND;VALUE=DATE:20220728
@@ -179,7 +179,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2022-sep@fed-calendar.github.io
 DTSTART;VALUE=DATE:20220920
 DTEND;VALUE=DATE:20220922
@@ -192,7 +192,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2022-nov@fed-calendar.github.io
 DTSTART;VALUE=DATE:20221101
 DTEND;VALUE=DATE:20221103
@@ -205,7 +205,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2022-dec@fed-calendar.github.io
 DTSTART;VALUE=DATE:20221213
 DTEND;VALUE=DATE:20221215
@@ -218,7 +218,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2023-jan@fed-calendar.github.io
 DTSTART;VALUE=DATE:20230131
 DTEND;VALUE=DATE:20230202
@@ -231,7 +231,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2023-mar@fed-calendar.github.io
 DTSTART;VALUE=DATE:20230321
 DTEND;VALUE=DATE:20230323
@@ -244,7 +244,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2023-may@fed-calendar.github.io
 DTSTART;VALUE=DATE:20230502
 DTEND;VALUE=DATE:20230504
@@ -257,7 +257,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2023-jun@fed-calendar.github.io
 DTSTART;VALUE=DATE:20230613
 DTEND;VALUE=DATE:20230615
@@ -270,7 +270,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2023-jul@fed-calendar.github.io
 DTSTART;VALUE=DATE:20230725
 DTEND;VALUE=DATE:20230727
@@ -283,7 +283,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2023-sep@fed-calendar.github.io
 DTSTART;VALUE=DATE:20230919
 DTEND;VALUE=DATE:20230921
@@ -296,7 +296,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2023-oct@fed-calendar.github.io
 DTSTART;VALUE=DATE:20231031
 DTEND;VALUE=DATE:20231102
@@ -309,7 +309,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2023-dec@fed-calendar.github.io
 DTSTART;VALUE=DATE:20231212
 DTEND;VALUE=DATE:20231214
@@ -322,7 +322,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2024-jan@fed-calendar.github.io
 DTSTART;VALUE=DATE:20240130
 DTEND;VALUE=DATE:20240201
@@ -335,7 +335,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2024-mar@fed-calendar.github.io
 DTSTART;VALUE=DATE:20240319
 DTEND;VALUE=DATE:20240321
@@ -348,7 +348,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2024-apr@fed-calendar.github.io
 DTSTART;VALUE=DATE:20240430
 DTEND;VALUE=DATE:20240502
@@ -361,7 +361,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2024-jun@fed-calendar.github.io
 DTSTART;VALUE=DATE:20240611
 DTEND;VALUE=DATE:20240613
@@ -374,7 +374,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2024-jul@fed-calendar.github.io
 DTSTART;VALUE=DATE:20240730
 DTEND;VALUE=DATE:20240801
@@ -387,7 +387,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2024-sep@fed-calendar.github.io
 DTSTART;VALUE=DATE:20240917
 DTEND;VALUE=DATE:20240919
@@ -400,7 +400,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2024-nov@fed-calendar.github.io
 DTSTART;VALUE=DATE:20241106
 DTEND;VALUE=DATE:20241108
@@ -413,7 +413,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2024-dec@fed-calendar.github.io
 DTSTART;VALUE=DATE:20241217
 DTEND;VALUE=DATE:20241219
@@ -426,7 +426,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2025-jan@fed-calendar.github.io
 DTSTART;VALUE=DATE:20250128
 DTEND;VALUE=DATE:20250130
@@ -439,7 +439,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2025-mar@fed-calendar.github.io
 DTSTART;VALUE=DATE:20250318
 DTEND;VALUE=DATE:20250320
@@ -452,7 +452,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2025-may@fed-calendar.github.io
 DTSTART;VALUE=DATE:20250506
 DTEND;VALUE=DATE:20250508
@@ -465,7 +465,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2025-jun@fed-calendar.github.io
 DTSTART;VALUE=DATE:20250617
 DTEND;VALUE=DATE:20250619
@@ -478,7 +478,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2025-jul@fed-calendar.github.io
 DTSTART;VALUE=DATE:20250729
 DTEND;VALUE=DATE:20250731
@@ -491,7 +491,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2025-08-22-notation-vote@fed-calendar.github.io
 DTSTART;VALUE=DATE:20250822
 DTEND;VALUE=DATE:20250823
@@ -502,7 +502,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2025-sep@fed-calendar.github.io
 DTSTART;VALUE=DATE:20250916
 DTEND;VALUE=DATE:20250918
@@ -515,7 +515,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2025-oct@fed-calendar.github.io
 DTSTART;VALUE=DATE:20251028
 DTEND;VALUE=DATE:20251030
@@ -528,7 +528,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2025-dec@fed-calendar.github.io
 DTSTART;VALUE=DATE:20251209
 DTEND;VALUE=DATE:20251211
@@ -541,7 +541,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2026-jan@fed-calendar.github.io
 DTSTART;VALUE=DATE:20260127
 DTEND;VALUE=DATE:20260129
@@ -554,7 +554,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2026-mar@fed-calendar.github.io
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260319
@@ -567,7 +567,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2026-apr@fed-calendar.github.io
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260430
@@ -580,7 +580,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2026-jun@fed-calendar.github.io
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260618
@@ -593,7 +593,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2026-jul@fed-calendar.github.io
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260730
@@ -606,7 +606,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2026-sep@fed-calendar.github.io
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260917
@@ -619,7 +619,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2026-oct@fed-calendar.github.io
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261029
@@ -632,7 +632,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2026-dec@fed-calendar.github.io
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261210
@@ -645,7 +645,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2027-jan@fed-calendar.github.io
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270128
@@ -658,20 +658,20 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2027-mar@fed-calendar.github.io
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270318
-SUMMARY:FOMC meeting (with projections)
+SUMMARY:FOMC meeting
 DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
- rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
- re tentative until confirmed at the meeting immediately preceding.\n\nSour
- ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2027-apr@fed-calendar.github.io
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270429
@@ -684,20 +684,20 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2027-jun@fed-calendar.github.io
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270610
-SUMMARY:FOMC meeting (with projections)
+SUMMARY:FOMC meeting
 DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
- rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
- re tentative until confirmed at the meeting immediately preceding.\n\nSour
- ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2027-jul@fed-calendar.github.io
 DTSTART;VALUE=DATE:20270727
 DTEND;VALUE=DATE:20270729
@@ -710,20 +710,20 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2027-sep@fed-calendar.github.io
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270916
-SUMMARY:FOMC meeting (with projections)
+SUMMARY:FOMC meeting
 DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
- rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
- re tentative until confirmed at the meeting immediately preceding.\n\nSour
- ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2027-oct@fed-calendar.github.io
 DTSTART;VALUE=DATE:20271026
 DTEND;VALUE=DATE:20271028
@@ -736,20 +736,20 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
-UID:fomc-2027-dec@fed-calendar.github.io
-DTSTART;VALUE=DATE:20271207
-DTEND;VALUE=DATE:20271209
-SUMMARY:FOMC meeting (with projections)
+DTSTAMP:20261113T112213Z
+UID:fomc-2027-nov@fed-calendar.github.io
+DTSTART;VALUE=DATE:20271116
+DTEND;VALUE=DATE:20271118
+SUMMARY:FOMC meeting
 DESCRIPTION:Policy statement at 2:00 p.m. ET on the final day\, press confe
- rence at 2:30 p.m. ET. Includes a Summary of Economic Projections. Dates a
- re tentative until confirmed at the meeting immediately preceding.\n\nSour
- ce: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+ rence at 2:30 p.m. ET. Dates are tentative until confirmed at the meeting 
+ immediately preceding.\n\nSource: https://www.federalreserve.gov/monetaryp
+ olicy/fomccalendars.htm
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T154740Z
+DTSTAMP:20261113T112213Z
 UID:fomc-2028-jan@fed-calendar.github.io
 DTSTART;VALUE=DATE:20280125
 DTEND;VALUE=DATE:20280127
